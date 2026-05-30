@@ -1,4 +1,30 @@
-Certo — ti preparo un commento in stile GitHub, tecnico ma con un po’ di ironia “She-Hulk” 😄
+## Hulk Quantum Bioinformatics Simulator 🧬⚛️💚
+
+Questo progetto è un esperimento didattico e fantascientifico che combina **bioinformatica**, **simulazione di mutazioni genetiche** e **quantum computing**.
+
+Il programma scarica una sequenza genetica reale da NCBI/GenBank, estrae una regione codificante annotata, traduce la sequenza usando il codice genetico standard e simula mutazioni indotte da radiazione gamma in modo probabilistico. Le sequenze originale e mutata vengono poi trasformate in vettori numerici basati su frequenze di codoni o k-mer e codificate in uno stato quantistico tramite PennyLane.
+
+Il confronto tra lo stato quantistico originale e quello mutato viene effettuato tramite **quantum fidelity**, usata come misura di similarità tra i due profili genetici. A partire da dose di radiazione, danno al DNA, cambiamenti proteici, distanza quantistica, capacità di riparazione del DNA e un parametro narrativo di “anger signal”, il programma calcola un indice finale chiamato **Hulk Index**.
+
+L’obiettivo non è costruire un modello biologico predittivo reale, ma mostrare in modo creativo come dati genetici reali possano essere trasformati in feature bioinformatiche e usati come input per circuiti quantistici simulati.
+
+In breve:
+
+* sequenza reale da NCBI;
+* estrazione della CDS principale;
+* traduzione DNA → proteina;
+* simulazione di mutazioni da radiazione gamma;
+* confronto tra DNA e proteina originale/mutata;
+* codifica quantistica tramite codoni o k-mer;
+* calcolo della quantum fidelity;
+* classificazione fantascientifica tramite Hulk Index.
+
+Il modello è volutamente ironico: più mutazioni non significano automaticamente “più Hulk”. Se il danno genetico è eccessivo, il programma penalizza il risultato, ad esempio in presenza di stop codon prematuri o frameshift. Questo permette di distinguere tra una trasformazione “compatibile” e un semplice collasso genetico.
+
+Disclaimer scientifico: le radiazioni ionizzanti nella realtà non producono superpoteri. Producono danni molecolari, mutazioni, morte cellulare e aumento del rischio patologico. Questo progetto è solo un esempio educativo e creativo di quantum bioinformatics.
+
+
+
 
 ### She-Hulk quantum bioinformatics run 🧬⚛️💚
 
